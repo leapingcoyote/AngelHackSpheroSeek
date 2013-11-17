@@ -1,0 +1,5 @@
+Source/*.xcodeproj/*.mode1v3
+Source/*.xcodeproj/*.pbxuser
+Source/*.xcodeproj/project.xcworkspace
+Source/*.xcodeproj/xcuserdata
+.DS_Store
